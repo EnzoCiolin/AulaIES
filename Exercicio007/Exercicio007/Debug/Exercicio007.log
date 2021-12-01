@@ -1,0 +1,4 @@
+﻿  Exercicio007.cpp
+c:\users\enzop\source\repos\exercicio007\exercicio007\exercicio007.cpp(9): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\enzop\source\repos\exercicio007\exercicio007\exercicio007.cpp(11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Exercicio007.vcxproj -> C:\Users\enzop\source\repos\Exercicio007\Debug\Exercicio007.exe

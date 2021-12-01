@@ -1,0 +1,5 @@
+﻿  Exercicio40.cpp
+c:\users\enzop\source\repos\exercicio40\exercicio40\exercicio40.cpp(28): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\enzop\source\repos\exercicio40\exercicio40\exercicio40.cpp(30): warning C4477: 'printf': a cadeia de formato '%c' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'char *'
+c:\users\enzop\source\repos\exercicio40\exercicio40\exercicio40.cpp(30): warning C4477: 'printf': a cadeia de formato '%c' requer um argumento do tipo 'int', mas um argumento variadic 2 tem o tipo 'char *'
+  Exercicio40.vcxproj -> C:\Users\enzop\source\repos\Exercicio40\Debug\Exercicio40.exe

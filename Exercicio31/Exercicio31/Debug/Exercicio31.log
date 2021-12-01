@@ -1,0 +1,4 @@
+﻿  Exercicio31.cpp
+c:\users\enzop\source\repos\exercicio31\exercicio31\exercicio31.cpp(28): warning C4244: '=': conversão de 'wint_t' para 'char', possível perda de dados
+c:\users\enzop\source\repos\exercicio31\exercicio31\exercicio31.cpp(33): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Exercicio31.vcxproj -> C:\Users\enzop\source\repos\Exercicio31\Debug\Exercicio31.exe

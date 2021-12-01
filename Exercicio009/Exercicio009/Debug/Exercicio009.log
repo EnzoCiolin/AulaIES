@@ -1,0 +1,3 @@
+﻿  Exercicio009.cpp
+c:\users\enzop\source\repos\exercicio009\exercicio009\exercicio009.cpp(16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Exercicio009.vcxproj -> C:\Users\enzop\source\repos\Exercicio009\Debug\Exercicio009.exe

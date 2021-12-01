@@ -1,0 +1,3 @@
+﻿  InicializandoVariaveis.cpp
+c:\users\enzop\source\repos\inicializandovariaveis\inicializandovariaveis\inicializandovariaveis.cpp(11): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  InicializandoVariaveis.vcxproj -> C:\Users\enzop\source\repos\InicializandoVariaveis\Debug\InicializandoVariaveis.exe
